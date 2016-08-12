@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kovieraite.location.PointsLocationCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-08-12T01:48:44" hostname="Ilonas-Air.home" time="31.872">
+  <properties/>
+  <testcase name="testHowMuchTimeItTakesToGetClosestPoints" classname="com.kovieraite.location.PointsLocationCalculatorTest" time="16.16"/>
+  <testcase name="testIfFindsTheFurthestPoints" classname="com.kovieraite.location.PointsLocationCalculatorTest" time="0.0"/>
+  <testcase name="testIfFindsTheClosestPoint" classname="com.kovieraite.location.PointsLocationCalculatorTest" time="0.0"/>
+  <testcase name="testIfDistanceIsCalculatedCorrectly" classname="com.kovieraite.location.PointsLocationCalculatorTest" time="0.0"/>
+  <testcase name="testHowMuchTimeItTakesToGetFurthestPoints" classname="com.kovieraite.location.PointsLocationCalculatorTest" time="15.709"/>
+  <system-out><![CDATA[Time taken to get the closest points once the binary file is read: 11
+Time taken to get the furthest points once the binary file is read: 11
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kovieraite.location.DecoderTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-08-12T01:48:31" hostname="Ilonas-Air.home" time="13.087">
+  <properties/>
+  <testcase name="testIfFileExists" classname="com.kovieraite.location.DecoderTest" time="0.002"/>
+  <testcase name="testIfThrowsExceptionForNonExistantFile" classname="com.kovieraite.location.DecoderTest" time="0.0"/>
+  <testcase name="testIfSizeOfFileIsAsExpected" classname="com.kovieraite.location.DecoderTest" time="0.0"/>
+  <testcase name="testIfFirstThreePointsAreAsExpected" classname="com.kovieraite.location.DecoderTest" time="5.878"/>
+  <testcase name="howMuchTimeToReadWholeFile" classname="com.kovieraite.location.DecoderTest" time="7.2"/>
+  <system-out><![CDATA[Time taken to read the whole binary file in seconds: 7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
